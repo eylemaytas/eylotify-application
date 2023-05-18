@@ -1,0 +1,112 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "image": "https://images.squarespace-cdn.com/content/v1/559cf25ae4b051cc74e761ef/1523433661928-SN3BTWT4SSTSNJVXQGZC/queen_primary.jpg?format=2500w",
+      "quotes": "Is this the real life? / Is this just fantasy?",
+      "releaseYear": "1975",
+      "musicType": "Rock Hard rock Progressive rock"
+    },
+    {
+      "id": 2,
+      "title": "Exit Music(for a Film)",
+      "artist": "Radiohead",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "quotes": "Breathe, keep breathing / Don't lose your nerve / Breathe, keep breathing / I can't do this alone",
+      "releaseYear": "1997",
+      "musicType": "Rock"
+    },
+    {
+      "id": 3,
+      "title": "Überlin",
+      "artist": "R.E.M",
+      "image": "https://i.discogs.com/OvvaXwWKu0VM2Ezm-TWUJ1GxLCSt13NnE17ePQwCjMo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTI1/MjEtMTMyNzg1OTU0/My5qcGVn.jpeg",
+      "quotes": "I will make it through the day / And then the day becomes the night / I will make it through the night",
+      "releaseYear": "2011",
+      "musicType": "Alternative rock folk rock"
+    },
+    {
+      "id": 4,
+      "title": "The Scientist",
+      "artist": "Coldplay",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png",
+      "quotes": "Nobody said it was easy / It's such a shame for us to part",
+      "releaseYear": "2002",
+      "musicType": "Rock"
+    },
+    {
+      "id": 5,
+      "title": "Romeo and Juliet",
+      "artist": "Dire Straits",
+      "image": "https://i.discogs.com/tUcDhzJu9vg5M5OynDvZzvd0pL5SvYgnXtUn-779k10/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTMy/NjktMTU3MzYzNTY3/OC0zOTU1LmpwZWc.jpeg",
+      "quotes": "When you can fall for chains of silver you can fall for chains of gold / You can fall for pretty strangers and the promises they hold",
+      "releaseYear": "1980",
+      "musicType": "Rock"
+    },
+    {
+      "id": 6,
+      "title": "Dream On",
+      "artist": "Aerosmith",
+      "image": "https://i.discogs.com/VlFrATx7WqmoE8FkAqyvcPoF7LHGzbnya-064sgZ5zs/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY1/MzAtMTI3NjA1NjI5/OC5qcGVn.jpeg",
+      "quotes": "Sing with me, if it's just for today / Maybe tomorrow, the good Lord will take you away",
+      "releaseYear": "1973",
+      "musicType": "Hard rock blues rock"
+    },
+    {
+      "id": 7,
+      "title": "I Walked The Line",
+      "artist": "Johnny Cash",
+      "image": "https://i.discogs.com/oKrNCZnaJb3lROEXXBNh0sPX6nrA1avVtzKzNpLU2WU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTg2/MTMtMTUwNjc0NDYw/Ny04MzA5LmpwZWc.jpeg",
+      "quotes": "Yes, I'll admit that I'm a fool for you / Because you're mine, I walk the line",
+      "releaseYear": "1973",
+      "musicType": "Country rockabilly"
+    },
+    {
+      "id": 8,
+      "title": "Big In Japan",
+      "artist": "Alphaville",
+      "image": "https://i.discogs.com/Mlmp1R89oY5fTlTHQHVK5fGnLi6Z6O4udN7smG7BYlo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEw/NTAtMTM3OTQ1NDE0/OC0zOTQxLmpwZWc.jpeg",
+      "quotes": "I had no illusions that I'd ever find / A glimpse of summer's heatwaves in your eyes",
+      "releaseYear": "1984",
+      "musicType": "Synth-pop"
+    },
+    {
+      "id": 9,
+      "title": "Stop Crying Your Heart Out",
+      "artist": "Oasis",
+      "image": "https://i.discogs.com/ZFFnBwJMuhB8dLE3TfAo34s1r8zGqvebr_aO-fr-8ko/rs:fit/g:sm/q:90/h:317/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODky/OTEtMTQxMjkzMTQy/OS00MDE1LmpwZWc.jpeg",
+      "quotes": "'Cause all of the stars are fading away / Just try not to worry, you'll see them someday",
+      "releaseYear": "2002",
+      "musicType": "Britpop"
+    },
+    {
+      "id": 10,
+      "title": "While Your Lips Are Still Red",
+      "artist": "Nightwish",
+      "image": "https://note-store.com/upload/iblock/30f/Nightwish-_-While-Your-Lips-Are-Still-Red.png",
+      "quotes": "Drown into eyes while they're still blind / Love while the night still hides the withering dawn",
+      "releaseYear": "2007",
+      "musicType": "Symphonic rock"
+    },
+    {
+      "id": 11,
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Arctic_Monkeys_-_Do_I_Wanna_Know.png",
+      "quotes": "Maybe I'm too / Busy bein' yours / To fall for somebody new / Now, I've thought it through",
+      "releaseYear": "2013",
+      "musicType": "Indie rock psychedelic rock stoner rock blues rock alternative rock"
+    },
+    {
+      "id": 12,
+      "title": "Hysteria",
+      "artist": "Muse",
+      "image": "https://i1.sndcdn.com/artworks-c3xcQEWYDBai-0-t500x500.jpg",
+      "quotes": "I'm not breaking down / I'm breaking out / Last chance to lose control",
+      "releaseYear": "2003",
+      "musicType": "Alternative rock hard rock"
+    }
+  ]
+}
